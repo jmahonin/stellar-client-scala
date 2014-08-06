@@ -13,8 +13,8 @@ Details:
 Can be run from the command line using:
 `sbt "run <username> <password>"`
 
-Note: Use at your own risk. Even though the your username and password are
-first before transmission over SSL, I make no guarantees about the correctness
-of this code or the safety of your credentials.
+Note: Use at your own risk. Even though your username and password are hashed
+before transmission over SSL, I make no guarantees about the correctness of
+this code, or the algorithms and implementation of Stellar's infrastructure.
 
 Donations welcome to username: jmahonin
